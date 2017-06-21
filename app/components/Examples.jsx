@@ -6,7 +6,7 @@ var Examples = props => {
     <div>
       <h1 className="text-center">Examples</h1>
       <p className="text-center">Try out some of these cities!</p>
-      <dl>
+      <dl className="text-center">
         <dd>
           <Link to="/?location=Monaco">Monaco, France</Link>
         </dd>
