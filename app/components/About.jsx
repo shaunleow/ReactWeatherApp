@@ -3,7 +3,7 @@ var React = require("react");
 var About = props => {
   return (
     <div>
-      <h1 className="text-center">About</h1>
+      <h1 className="text-center page-title">About</h1>
       <p className="text-center">
         Did you find the weather? Great! Simple right? It's magical and is
         accurate by TWO decimal places! EXPELLIARMUS!
