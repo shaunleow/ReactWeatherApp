@@ -1,0 +1,12 @@
+$space-medium: 2.5rem;
+$title-color: #b366ff;
+
+.page-title {
+  color: $title-color;
+  margin-top: $space-medium;
+  margin-bottom: $space-medium;
+}
+
+input[type=search] {
+  box-shadow: none;
+}
